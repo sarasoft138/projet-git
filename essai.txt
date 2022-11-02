@@ -1,2 +1,4 @@
 ceci est une modification dans un Git
 elle va etre deposer dans un GitHub
+ces deux lignes sont des modifications
+dans la nouvelle-branche
